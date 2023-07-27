@@ -16,12 +16,6 @@ function findIndexPosition(value, arr) {
   }
 }
 let arr = [1, 2, 3, 4, 5, 6];
-// let number = parseInt(prompt("Nhập vào giá trị bất kỳ"));
-// let result = arr.indexOf(number);
-// if (result == -1) {
-//   console.log("Số nguyên không nằm trong mảng arr");
-// } else if (result != -1) {
-//   console.log("Số nguyên nằm trong mảng");
-// }
+
 
 findIndexPosition(5, arr);

@@ -1,4 +1,3 @@
-//Câu 1Quadratic equation 2
 
 function solveQuadraticequation2(a, b, c) {
   if (a == 0) {
